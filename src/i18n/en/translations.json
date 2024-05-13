@@ -1,0 +1,10 @@
+{
+  "success": "Success",
+  "user_not_found": "User with email {email} does not found in our records",
+  "email_already_exists": "Email {email} already exists, please try a new one",
+  "unauthorized": "Unauthorized",
+  "failure": "Failure",
+  "email_or_password_might_be_wrong": "Email or password might be wrong",
+  "entity_not_found": "{entity} not present in our records!",
+  "point": "Point"
+}

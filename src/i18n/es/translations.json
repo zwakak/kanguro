@@ -1,0 +1,12 @@
+{
+  "success": "Éxito",
+  "user_not_found": "Usuario con correo electrónico {email} no se encuentra en nuestros registros",
+  "unauthorized": "No autorizado",
+
+  "email_already_exists": "El correo electrónico {email} ya existe, prueba con uno nuevo.",
+  "failure": "Falla",
+  "email_or_password_might_be_wrong": "El correo electrónico o la contraseña pueden ser incorrectos",
+  "entity_not_found": "{entity} no está presente en nuestros registros!",
+  "point": "Punto"
+
+}
